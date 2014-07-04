@@ -1,0 +1,18 @@
+# project directories to ignore when committing
+
+SmokeSim/Debug/
+SmokeSim/Release/
+SmokeSim/ipch/
+
+SmokeSim/SmokeSim/Debug/
+SmokeSim/SmokeSim/Release/
+
+SmokeSim/SmokeSim.suo
+
+
+# file types to ignore when committing
+
+*.sdf
+*.opensdf
+*.suo
+*.vcxproj.user
